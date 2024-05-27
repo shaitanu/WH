@@ -29,10 +29,10 @@ export const Header: FC<Props> = ({ locale }) => {
           <a href=''>{t('Support')}</a>
           <a href=''>{t('Other')}</a>
         </nav>
-        <ThemeSwitch />
-        <LangSwitcher />
+        {/* <ThemeSwitch /> */}
+        {/* <LangSwitcher /> */}
         <a
-          href='https://github.com/yahyaparvar/nextjs-template'
+          href='https://www.linkedin.com/company/w-h'
           target='_blank'
         >
           <div className='size-8'>
